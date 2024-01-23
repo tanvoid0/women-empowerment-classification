@@ -11,3 +11,9 @@ this projects demonstrates how to process csv file and train models based on the
 - run `pip install -r requirements.txt`
 - run jupyter notebook file `main.ipynb`
 - It will show the accuracy of different Machine Learning algorithms
+
+# Preview
+
+![Decision Tree Classifier](assets/decision-classifier.png)
+![K Nearest Algorithm](assets/k-nearest.png)
+![Random Forest](assets/random-forest.png)
